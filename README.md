@@ -1,4 +1,18 @@
-# konfigurasi xampp untuk penggunaan codeigniter 4
+# konfigurasi untuk penggunaan codeigniter 4
+
+---
+
+1. download codeigniter4 yang bisa didownload pada codeigniter.com
+
+2. buat folder **lab11_ci** pada htdocs lalu masukkan file codeigniter yang sudah di ekstrak
+
+3. rename folder codeigniter yang awalnya **codeigniter4-framework-v4....** menjadi **ci4**
+
+4. pada folder ci4 cari file bernama **env** kemudian rename menjadi **.env**
+
+5. buka file .env kemudian ubah **CI_ENVIRONMENT = production** menjadi **CI_ENVIRONMENT = development** kemudian save
+
+# konfigurasi xampp untuk mengakses codeigniter 4
 
 ---
 
@@ -22,3 +36,6 @@ apabila muncul output seperti dibawah ini, maka lanjutkan dengan mengetik **php 
 
 ![Screenshot (125)](https://github.com/Pyatamaa/lab7web/assets/92738041/bc236c8b-06d7-489f-9bd3-60377ef97eb1)
 
+#output
+
+![Screenshot (121)](https://github.com/Pyatamaa/lab7web/assets/92738041/2766ba54-326d-42e0-8031-42ac00937c05)

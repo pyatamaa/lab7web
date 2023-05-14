@@ -36,6 +36,6 @@ apabila muncul output seperti dibawah ini, maka lanjutkan dengan mengetik **php 
 
 ![Screenshot (125)](https://github.com/Pyatamaa/lab7web/assets/92738041/bc236c8b-06d7-489f-9bd3-60377ef97eb1)
 
-#output
+# output
 
 ![Screenshot (121)](https://github.com/Pyatamaa/lab7web/assets/92738041/2766ba54-326d-42e0-8031-42ac00937c05)
